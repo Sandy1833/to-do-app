@@ -3,7 +3,7 @@ import { useEffect, useState } from "react";
 import Todo from "./components/Todo";
 import { ToastContainer, toast } from 'react-toastify';
 import axios from "axios";
-import 'dotenv/config'
+import 'dotenv/config';
 
 
 export default function Home() {
